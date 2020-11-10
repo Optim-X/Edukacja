@@ -1,0 +1,2 @@
+/// @description ignoruj kliknięcia
+

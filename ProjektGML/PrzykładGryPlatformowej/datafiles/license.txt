@@ -1,0 +1,25 @@
+###############################################################################
+
+	Gra Platformowa X (Art22pl) odwiedź (www.optimx.pl)
+
+			Projekt gry do nauki GML
+
+			        Licencja (CC0)
+	       http://creativecommons.org/publicdomain/zero/1.0/
+
+	Możesz używać projektu gry w prywatnych i komercyjncyh zastosowaniach.
+	Możesz wspomnieć o autorze, ale nie musisz. 
+
+###############################################################################
+
+	Platformer graphics (Deluxe) by Kenney Vleugels (www.kenney.nl)
+
+			------------------------------
+
+			        License (CC0)
+	       http://creativecommons.org/publicdomain/zero/1.0/
+
+	You may use these graphics in personal and commercial projects.
+	Credit (Kenney or www.kenney.nl) would be nice but is not mandatory.
+
+###############################################################################

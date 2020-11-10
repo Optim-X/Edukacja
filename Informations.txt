@@ -1,0 +1,5 @@
+Aktualna wersja zawsze znajdzie się w tym miejscu na GitHub.
+
+Przykład zawiera instrukcję korzystania z plików konfiguracyjnych .ini oraz podstawową konfigurację funkcji tworzenia list oraz siatki w GML.
+
+Przykład do dowolnego zastosowania oraz modyfikacji.
