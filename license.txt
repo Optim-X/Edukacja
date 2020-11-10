@@ -2,11 +2,8 @@
 
 	Gra Platformowa X (Art22pl) odwiedź (www.optimx.pl)
 
-			Projekt gry do nauki GML - Gamemaker Studio 2.3
-
-			        Licencja (CC0)
-	       http://creativecommons.org/publicdomain/zero/1.0/
-
+	Projekt gry do nauki GML - Gamemaker Studio 2.3
+				Licencja :
 	Możesz używać projektu gry w prywatnych i komercyjncyh zastosowaniach.
 	Możesz wspomnieć o autorze, ale nie musisz. 
 
