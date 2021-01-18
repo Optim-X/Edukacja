@@ -1,0 +1,7 @@
+Aktualna wersja, zawsze znajdzie się w tym miejscu na GitHub.
+
+Prosty przykład gry, bez używania kodów python!
+
+Na bazie graficznych bloków logicznych i warunkowych odniesień.
+
+Nauczysz się jak w prosty sposób ustawić odniesienia do klawiszy oraz przypisać gotową fizykę BGE.

@@ -1,0 +1,19 @@
+###############################################################################
+
+	4 Football - Na bazie projektu z 2009r - Artur Orlecki - (www.optimx.pl)
+
+	Projekt gry do nauki BGE Blender - Blender 2.49 i 2.79
+
+				Licencja :
+	Możesz dowolnie używać projektu gry w prywatnych i komercyjncyh zastosowaniach.
+	Możesz wspomnieć o autorze, ale nie musisz. 
+
+###############################################################################
+
+	Projekt korzysta z grafik dostępnych na licencji CC0 w małej rozdzielczości
+
+	       http://creativecommons.org/publicdomain/zero/1.0/
+
+	You may use these graphics in personal and commercial projects.
+
+###############################################################################
