@@ -1,0 +1,2 @@
+global.efe=3
+
