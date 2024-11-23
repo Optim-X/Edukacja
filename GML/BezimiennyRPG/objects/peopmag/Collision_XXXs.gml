@@ -1,0 +1,1 @@
+global.maata=1

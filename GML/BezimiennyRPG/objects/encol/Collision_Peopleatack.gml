@@ -1,0 +1,1 @@
+speed-=random(1)

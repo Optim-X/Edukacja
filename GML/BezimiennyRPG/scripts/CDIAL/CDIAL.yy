@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"CDIAL",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"CDIAL",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

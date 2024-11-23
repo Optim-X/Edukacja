@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"DELID",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"DELID",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

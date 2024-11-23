@@ -1,0 +1,1 @@
+if gotowemieso=0 x+=2

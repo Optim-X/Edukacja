@@ -1,0 +1,1 @@
+health-=random(5)
