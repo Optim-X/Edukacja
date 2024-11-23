@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"EnterNew360",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"EnterNew360",
+  "parent":{
+    "name":"LOAD",
+    "path":"folders/Scripts/LOAD.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

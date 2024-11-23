@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"model_180",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"model_180",
+  "parent":{
+    "name":"3D",
+    "path":"folders/Scripts/3D.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

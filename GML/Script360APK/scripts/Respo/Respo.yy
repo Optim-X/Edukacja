@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Respo",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Respo",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Scripts/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

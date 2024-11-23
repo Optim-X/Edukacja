@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"c3d",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"c3d",
+  "parent":{
+    "name":"3D",
+    "path":"folders/Scripts/3D.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

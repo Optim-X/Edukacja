@@ -1,0 +1,14 @@
+Open in explorer datafiles folder and add 360 images.
+To add 360 photos you need to cut them into 2 halves. 
+left half 180 degrees and right half 180 degrees. 
+You can use gimp or any other program. 
+
+High quality - scale the image to a resolution of 8192x4096pix and cut it into 2 parts. 
+Sign the halves as 0HL.jpg and 0HP.jpg 
+
+Normal quality - scale the photo to the size of 4096x2048pix, 
+cut it in half and save as 0L.jpg and 0P.jpg 
+
+add subsequent photos by increasing the number 1HP.jpg and 1HL.jpg. 
+
+Put the files into the datafiles folder.
