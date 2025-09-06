@@ -1,0 +1,1 @@
+Projekty można używać dowolnie, niektóre kody były importowane z bloków dlatego kody wyglądają chaotycznie. W nowszych projektach jest znacznie lepiej. Niektóre projekty były tworzone za czasów szkoły, więc proszę o wyrozumiałość.
